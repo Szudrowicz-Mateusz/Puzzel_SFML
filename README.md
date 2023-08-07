@@ -5,6 +5,7 @@ Game logic was very easy. You had diffrent size texture and every puzzel had to 
 So that's mine version with mine textures and worse colors.
 
 Cmake to run this program:
+
   1)mkdir build
   2)cd build
   3)cmake ..
