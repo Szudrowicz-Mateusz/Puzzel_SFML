@@ -4,7 +4,7 @@ My gf was playing some weird game on steam and I thought that I will create my o
 Game logic was very easy. You had diffrent size texture and every puzzel had to fit  in the square.
 So that's mine version with mine textures and worse colors.
 
-Cmake to run this program:
+Cmake to run this program :
 
   1)mkdir build
   2)cd build
